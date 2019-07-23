@@ -1,7 +1,6 @@
-![](me.png)
+![](name.png)
 
-
-# Module Project: The Reducer Pattern 
+# Module Project: The Reducer Pattern
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored the reducer pattern. During the module, you studied what immutability is, what reducers, actions and dispatch are, and how to use the reducer hook. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
 
