@@ -19,9 +19,11 @@ function TodoApp() {
 			}}
 			elevation={0}
 		>
-			<AppBar color="primary" position="static" style={{ height: '64px' }}>
-				<Toolbar>
-					<Typography color="inherit">TODOS WITH HOOKS</Typography>
+			<AppBar color="secondary" position="static" style={{ height: '64px' }}>
+				<Toolbar className="appbar-img">
+					<Typography variant="h5" color="inherit">
+						TODOS WITH HOOKS
+					</Typography>
 				</Toolbar>
 			</AppBar>
 			<Grid container justify="center" style={{ marginTop: '1rem' }}>
@@ -35,4 +37,5 @@ function TodoApp() {
 		</Paper>
 	)
 }
+
 export default TodoApp
